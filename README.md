@@ -7,3 +7,4 @@ List of various softwares, packages & guides I use for work and learning
 4. For Data checks & Profiling https://github.com/great-expectations/great_expectations
 5. For Data Labelling https://labelstud.io/ & Grafana Annotations
 6. For quick README https://readme.so/
+7. Git https://education.github.com/git-cheat-sheet-education.pdf
