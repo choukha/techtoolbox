@@ -8,3 +8,4 @@ List of various softwares, packages & guides I use for work and learning
 5. For Data Labelling https://labelstud.io/ & Grafana Annotations
 6. For quick README https://readme.so/
 7. Git https://education.github.com/git-cheat-sheet-education.pdf
+8. Pipelines or workflows : Apache Airflow (https://airflow.apache.org/) or Prefect(https://www.prefect.io/)
